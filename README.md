@@ -33,6 +33,7 @@
 ### Step 4: 下載標楷體字型檔案
 1. 前往以下 GitHub Gist 連結下載字型文件：
    - [kaiu.ttf](https://gist.github.com/irwincong/21a04035e41813d7d5f56552b9a983de)
+
 2. 點擊「Download」按鈕，將 `kaiu.ttf` 保存至本地電腦。
 
 > 來源說明：此 `kaiu.ttf` 字型檔案由 GitHub Gist 用戶分享，宣稱針對跨平台顯示相容性進行優化。建議使用前先行測試其在目標系統上的顯示效果，並留意相關授權條款。
